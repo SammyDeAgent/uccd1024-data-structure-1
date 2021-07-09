@@ -1,0 +1,70 @@
+1200233	 Noel_Kalicharan Advanced_topics_in_C:_Core_Concepts_in_Data_Structures Apress 2361589071 2013 QA76.73.C15K35 12/2/2020  12/3/2020
+
+
+1200233	 Noel_Kalicharan Advanced_topics_in_C:_Core_Concepts_in_Data_Structures Apress 2361589071 2013 QA76.73.C15K35 12/2/2020  12/3/2020
+
+
+1200233	 Noel_Kalicharan Advanced_topics_in_C:_Core_Concepts_in_Data_Structures Apress 2361589071 2013 QA76.73.C15K35 12/2/2020  12/3/2020
+	
+
+1201237	 Tony_Gaddis/Godfrey_Muganda Starting_Out_with_Java:From_Control_Structures_Through_Data_Structures Addison-Wesley 0321545869 2011 QA76.73.C153S26 30/2/2020 30/3/2020	
+
+
+1201237	 Tony_Gaddis/Godfrey_Muganda Starting_Out_with_Java:From_Control_Structures_Through_Data_Structures Addison-Wesley 0321545869 2011 QA76.73.C153S26 30/2/2020 30/3/2020
+
+
+1300899	 Micheal_Main/Walter_Savitch Data_Structures_and_Other_Objects_Using_C++ Prentice_Hall 0132129485 2010 QA76.73.C153N868 27/2/2020 27/3/2020  
+
+
+1200233	 Nell_Dale/Daniel_Joyce/Chip_Weems Object-Oriented_Data_Structures_Using_Java Jones_&_Bartlett_Learning 1449613543 2011 QA76.58.M532 20/1/2020 20/2/2020 
+
+
+1201237  Micheal_Main/Walter_Savitch Data_Structures_and_Other_Objects_Using_C++ Prentice_Hall 0132129485 2010 QA76.73.C153N868 29/2/2020 29/3/2020  
+
+
+1200233	 Micheal_Main/Walter_Savitch Data_Structures_and_Other_Objects_Using_C++ Prentice_Hall 0132129485 2010 QA76.73.C153N868 13/3/2020 13/4/2020  
+
+
+1502378	 Noel_Kalicharan Advanced_topics_in_C:_Core_Concepts_in_Data_Structures Apress 2361589071 2013 QA76.73.C15K35 12/3/2020  12/4/2020
+	
+
+1603679	 Tony_Gaddis/Godfrey_Muganda Starting_Out_with_Java:From_Control_Structures_Through_Data_Structures Addison-Wesley 0321545869 2011 QA76.73.C153S26 17/2/2020 17/3/2020	
+
+
+1603679	 Noel_Kalicharan Advanced_topics_in_C:_Core_Concepts_in_Data_Structures Apress 2361589071 2013 QA76.73.C15K35 26/3/2020  26/4/2020
+
+
+1310983	 Noel_Kalicharan Advanced_topics_in_C:_Core_Concepts_in_Data_Structures Apress 2361589071 2013 QA76.73.C15K35 28/2/2020 28/3/2020  
+
+
+1502378	 Nell_Dale/Daniel_Joyce/Chip_Weems Object-Oriented_Data_Structures_Using_Java Jones_&_Bartlett_Learning 1449613543 2011 QA76.58.M532 9/2/2020 9/3/2020 
+
+
+1603679  Micheal_Main/Walter_Savitch Data_Structures_and_Other_Objects_Using_C++ Prentice_Hall 0132129485 2010 QA76.73.C153N868 29/2/2020 29/3/2020  
+
+
+1310983  Micheal_Main/Walter_Savitch Data_Structures_and_Other_Objects_Using_C++ Prentice_Hall 0132129485 2010 QA76.73.C153N868 20/3/2020 20/4/2020  
+
+
+2100600  Jordan_Meyers How_To_Create_A_Ultranationalism_Party KGB_Prints 0523548752 1974 QA76.73.KGBH7J8D 14/1/2020 14/2/2020
+
+
+2100600  Keith_Albert/John_Northwest_Klint Kalashnikov_And_The_History_Of_The_AK_Family Bylat_Color_&_WB 0785639514 2001 QA76.73.K78U1B7 2/1/2020 2/2/2020
+ 
+
+2100600  Imran_Zakhaev The_Legend_Of_Imran_Zahkaev KGB_Prints 0524958716 1975 QA76.73.KGB01KD8 21/12/2019 21/1/2020
+
+
+1789562  Donald_Trump/Michael_Moody Atlas_Manticore_Conspiracy USA_Frontlines 5842615743 2011 QA76.73.USA101KD8 2/2/2020 2/3/2020
+
+
+1789562  Nell_Dale/Daniel_Joyce/Chip_Weems Object-Oriented_Data_Structures_Using_Java Jones_&_Bartlett_Learning 1449613543 2011 QA76.58.M532 9/2/2020 9/3/2020 
+
+
+1789562  Noel_Kalicharan Advanced_topics_in_C:_Core_Concepts_in_Data_Structures Apress 2361589071 2013 QA76.73.C15K35 12/2/2020  12/3/2020
+
+
+1789562  Micheal_Main/Walter_Savitch Data_Structures_and_Other_Objects_Using_C++ Prentice_Hall 0132129485 2010 QA76.73.C153N868 20/3/2020 20/4/2020
+
+
+8868423  Adolf_Hitler Mein_Kampf Eher_Verlag 0395951057 1925 QA76.73.S153S8S8 14/3/2020 14/4/2020
